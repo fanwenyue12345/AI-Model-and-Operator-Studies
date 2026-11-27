@@ -8,9 +8,10 @@
 
 | 项目 | 研究主题 | 状态 |
 |---|---|---|
-| [01 — ReWY](01_ReWY/README.md) | Delta-Rule Attention 反向传播优化、伴随方法与 Kernel 实现 | 已迁移初始研究笔记，持续完善 |
+| [01 — ReWY](01_ReWY/README.md) | Delta-Rule Attention 反向传播优化、伴随方法与 Kernel 实现 | 持续学习 |
+| [02 — HiLS-Attention](02_HiLS-Attention/学习记录.md) | 分层稀疏注意力、Chunk 检索、模型源码与 GPU Kernel | 学习与源码分析中 |
 
-后续计划研究：FLA、HiLS-Attention、FlashAttention、NSA、vLLM、SGLang 等。
+后续可继续加入：FLA、FlashAttention、NSA、vLLM、SGLang 等。
 
 ## 每个项目的统一学习框架
 
